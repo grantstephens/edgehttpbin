@@ -1,0 +1,9 @@
+# This file describes a Fastly Compute@Edge package. To learn more visit:
+# https://developer.fastly.com/reference/fastly-toml/
+
+authors = [""]
+description = ""
+language = "go"
+manifest_version = 2
+name = "c@ehttpbin"
+service_id = "NvuzRGTkgyu0oOBURxzdH2"
