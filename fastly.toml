@@ -5,5 +5,5 @@ authors = [""]
 description = ""
 language = "go"
 manifest_version = 2
-name = "c@ehttpbin"
+name = "edgehttpbin"
 service_id = "NvuzRGTkgyu0oOBURxzdH2"
